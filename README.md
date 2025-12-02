@@ -47,9 +47,9 @@ VSCode Templates:   {app}\vscode-templates
 7. Open "Examples/circle.cpp"
 8. Install "C/C++ Extensions Pack"
    (your vscode will prompt you else visit)
-   '''
+   ```
    https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack
-   '''
+   ```
 9. Open "circle.cpp"
 10. Press `Ctrl + Shift + B`
 11. Press `Ctrl + Shift + D`
