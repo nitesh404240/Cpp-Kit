@@ -35,44 +35,40 @@ VSCode Templates:   {app}\vscode-templates
 
 ## 🚀 Quick Start with VS Code
 
-### First-Time Setup `for graphics`
+### First-Time Setup (For Graphics)
 
 1. Open **VS Code**
-2. Click on File(top-left corner)
-3. Open a folder → Select Documents
-                 → Open "Kalyug C++ Student Kit
-                 → Click Select Folder 
-5. Check "Trust the authors of all files in the parent folder `shash`"
-6. Click "Yes, i trust the authors
-7. Open "Examples/circle.cpp"
-8. Install "C/C++ Extensions Pack"
-   (your vscode will prompt you else visit)
-   ```
+2. Go to **File → Open Folder**
+3. Select:
+   - 📂 `Documents`
+   - 📂 `Kalyug C++ Student Kit`
+4. Click **Select Folder**
+5. If prompted, click:  
+   → **Yes, I trust the authors**
+6. Open: `Examples/circle.cpp`
+7. Install: **C/C++ Extensions Pack**  
+   *(VS Code will suggest automatically, or use this link)*  
    https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack
-   ```
-9. Open "circle.cpp"
-10. Press `Ctrl + Shift + B`
-11. Press `Ctrl + Shift + D`
-12. Choose "Run Graphics C++"
-    `Dont worry it can still  run C`
-13. Press `F5` else  `Fn + F5`
+8. Press **Ctrl + Shift + B** → Build
+9. Press **Ctrl + Shift + D** → Select **Run Graphics C++**
+10. Press **F5** (or **Fn + F5**) → Run
 
-You're ready to build! 🎉
+🎉 You’re ready to build graphics programs!
+
+---
 
 ## 🛠️ Building Your Code
 
 ### Using VS Code Tasks
 
-In VS Code, you can build using keyboard shortcuts or the task menu:
+| Task | Shortcut |
+|------|----------|
+| Show all build tasks | `Ctrl + Shift + B` |
+| Show debug configuration | `Ctrl + Shift + D` |
 
-| Action | Keyboard Shortcut |
-|--------|-------------------|
-| Show all tasks | `Ctrl + Shift + B` |
-| Show debug config | `Ctrl + Shift + D` |
-
-**Available Build Tasks:**
-- **Build Normal C++** - Compile standard C++ programs
-- **Build Graphics C++** - Compile programs using graphics.h
+**Available Tasks**
+- **Build Normal C++** → Standard console apps
+- **Build Graphics C++** → Programs using `graphics.h`
 
 **Output Location:** `.bin\your_program.exe`
 
