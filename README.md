@@ -1,4 +1,4 @@
-# C/C++ Student Kit
+# C/C++ Kit
 
 <p align="center">
 
