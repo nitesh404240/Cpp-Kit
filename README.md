@@ -1,8 +1,8 @@
 # Kalyug C++ Student Kit
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-1.0-blue.svg)](#)
-[![Maintained by Himanshu](https://img.shields.io/badge/Maintained%20by-Himanshu-brightgreen.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-1.0-blue.svg?style=for-the-badge)](#)
+[![Maintained by Himanshu](https://img.shields.io/badge/Maintained%20by-Himanshu-brightgreen.svg?style=for-the-badge)](#)
 [![Latest Release](https://img.shields.io/github/v/release/kalyugwasi/Cpp-Kit?style=for-the-badge)](https://github.com/kalyugwasi/Cpp-Kit/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/kalyugwasi/Cpp-Kit/total?style=for-the-badge)](https://github.com/kalyugwasi/Cpp-Kit/releases)
 
