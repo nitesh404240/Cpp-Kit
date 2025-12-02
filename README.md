@@ -42,7 +42,7 @@ VSCode Templates:   {app}\vscode-templates
 3. Open a folder → Select Documents
                  → Open "Kalyug C++ Student Kit
                  → Click Select Folder 
-5. Check "Trust the authors of all files in the parent folder 'shash'"
+5. Check "Trust the authors of all files in the parent folder `shash`"
 6. Click "Yes, i trust the authors
 7. Open "Examples/circle.cpp"
 8. Install "C/C++ Extensions Pack"
