@@ -53,21 +53,23 @@ VSCode Templates:   {app}\vscode-templates
 
 ### First-Time Setup (For Graphics)
 
-1. Open **VS Code**
-2. Go to **File → Open Folder**
-3. Select:
+1. Download Latest release from top of the page
+2. Install the `.exe` File
+3. Open **VS Code**
+4. Go to **File → Open Folder**
+5. Select:
    - 📂 `Documents`
    - 📂 `Kalyug C++ Student Kit`
-4. Click **Select Folder**
-5. If prompted, click:  
+6. Click **Select Folder**
+7. If prompted, click:  
    → **Yes, I trust the authors**
-6. Open: `Examples/circle.cpp`
-7. Install: **C/C++ Extensions Pack**  
+8. Open: `Examples/circle.cpp`
+9. Install: **C/C++ Extensions Pack**  
    *(VS Code will suggest automatically, or use this link)*  
    https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack
-8. Press **Ctrl + Shift + B** → Build
-9. Press **Ctrl + Shift + D** → Select **Run Graphics C++**
-10. Press **F5** (or **Fn + F5**) → Run
+10. Press **Ctrl + Shift + B** → Build
+11. Press **Ctrl + Shift + D** → Select **Run Graphics C++**
+12. Press **F5** (or **Fn + F5**) → Run
 
 🎉 You’re ready to build graphics programs!
 
